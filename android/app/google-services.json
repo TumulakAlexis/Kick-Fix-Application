@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568503198472",
+    "project_id": "kickfix-4556a",
+    "storage_bucket": "kickfix-4556a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568503198472:android:93426f8c0abb19c6c202bd",
+        "android_client_info": {
+          "package_name": "com.example.kick_fix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65b_kwpku8DbNhPmvwXhNeNxI1VYljfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
